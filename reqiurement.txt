@@ -1,0 +1,30 @@
+# Web Framework
+streamlit
+
+# Data Processing & Math
+pandas
+numpy
+scikit-learn
+joblib
+
+# YouTube & API Communication
+google-api-python-client
+youtube-transcript-api
+python-dotenv
+
+# AI & Deep Learning
+tensorflow
+langchain
+langchain-huggingface
+langchain-text-splitters
+huggingface_hub
+
+# Text Processing & Visualization
+nltk
+emoji
+wordcloud
+matplotlib
+plotly
+
+# Utility
+requests
